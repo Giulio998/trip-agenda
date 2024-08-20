@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2816" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 94 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c64242;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="_defs" data-name="&amp;lt;defs">
+    <inkscape:perspective id="perspective2824" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+  </g>
+  <sodipodi:namedview id="namedview2818" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg2816" inkscape:cx="44.920355" inkscape:cy="60.493358" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="809" inkscape:window-maximized="0" inkscape:window-width="1126" inkscape:window-x="287" inkscape:window-y="0" inkscape:zoom="3.0991164" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+  <path class="cls-1" d="M81.3,16.7c-6.2-7.4-15-12.9-25.3-15C31.6-3.4,7.7,11.7,2.5,35.4c-.8,3.9-1.1,7.7-.9,11.5-.8,23.5,17.8,45.2,35,68.1,4.2,5.2,10.1,11,10.4,11.7l9.5-11.2c21.5-28.1,53-69.1,24.8-98.8ZM25,42.6c0-.5.2-.9.3-1.4,3.1-11.4,14.4-18.5,25.9-16,3.3.7,6.2,2.1,8.7,4.1,6.6,5.1,10.1,13.9,8.3,22.7-1.9,9.3-9.2,16-17.8,17.5-2.5.5-5.2.5-7.9,0h-.6c-4.6-1.1-8.6-3.6-11.6-6.9-4.7-5.2-6.9-12.6-5.4-20Z"/>
+</svg>
